@@ -1,0 +1,16 @@
+// Exports for all feature modules (CRUD placeholders)
+export { default as Users } from './Users';
+export { default as Bookings } from './Bookings';
+export { default as Payments } from './Payments';
+export { default as Subscriptions } from './Subscriptions';
+export { default as ProgressTracker } from './ProgressTracker';
+export { default as Chat } from './Chat';
+export { default as ContentLibrary } from './ContentLibrary';
+export { default as GroupPrograms } from './GroupPrograms';
+export { default as Reports } from './Reports';
+export { default as AdminPortal } from './AdminPortal';
+export { default as BonusFeatures } from './BonusFeatures';
+export { default as AITools } from './AITools';
+export { default as PlatformEnhancers } from './PlatformEnhancers';
+export { default as Integrations } from './Integrations';
+export { default as Marketing } from './Marketing'; 
