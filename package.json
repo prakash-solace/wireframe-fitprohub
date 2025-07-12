@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "electron.js",
-  "homepage": "https://prakash-solace.github.io/fitprohub-wireframe",
+  "homepage": "https://prakash-solace.github.io/wireframe-fitprohub",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
